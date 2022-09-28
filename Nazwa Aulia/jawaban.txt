@@ -1,0 +1,2 @@
+constructor adalah method yang berfungsi untuk menginisialisasi variabel-variabel instan yang akan dimiliki oleh objek.
+destruktor adalah metode yang dipanggil secara mekanis tepat sebelum memori objek dirilis.
